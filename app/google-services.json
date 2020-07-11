@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061855572380",
+    "firebase_url": "https://photochatclone-cc47b.firebaseio.com",
+    "project_id": "photochatclone-cc47b",
+    "storage_bucket": "photochatclone-cc47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061855572380:android:d8939ed67b3a3217b75859",
+        "android_client_info": {
+          "package_name": "com.example.photochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061855572380-3nd8cni2lk8tc9eshrcbv3n70rggatpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgW8RB-H1RDRGToer8c7rcvKyk445acP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061855572380-3nd8cni2lk8tc9eshrcbv3n70rggatpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
